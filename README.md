@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on [Brave Browser](https://github.com/brave/brave-core) and also a Chromium committer.
+<br/>In case you're interested in contributing to Brave or Chromium, I can help you happily - Please email me.
+
+Also I'm trying to share what I know here - https://www.youtube.com/channel/UCgXGlah7QZBpZRbt9qg_8CQ
+<br/>Might take long for update though 😊
