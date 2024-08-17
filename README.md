@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on [Brave Browser](https://github.com/brave/brave-core) and also a Chromium committer.
-<br/>In case you're interested in contributing to Brave or Chromium, I can help you happily - Please email me.
+I'm a web browser developer worked at [Naver Whale Browser](https://whale.naver.com/), and [Brave Browser](https://github.com/brave/brave-core) . And I'm also a Chromium committer.
+I'm not hired at this moment, but eager to working on developing web browser features.
+
+<br/>In case you're interested in contributing to Chromium, I can help you happily - Please email me.
 
 Also I'm trying to share what I know here - https://www.youtube.com/channel/UCgXGlah7QZBpZRbt9qg_8CQ
 <br/>Might take long for update though 😊
