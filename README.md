@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a web browser developer worked at [Naver Whale Browser](https://whale.naver.com/), and [Brave Browser](https://github.com/brave/brave-core) . And I'm also a Chromium committer.
-I'm not hired at this moment, but eager to working on developing web browser features.
+I'm a web browser developer. I worked at [Naver Whale Browser](https://whale.naver.com/), and [Brave Browser](https://github.com/brave/brave-core) . 
+And I'm also a Chromium committer. I eager to working on developing web browser features.
 
 In case you're interested in contributing to Chromium, I can help you happily - Please email me.
 
